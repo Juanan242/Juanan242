@@ -32,7 +32,7 @@ Right now I'm working on three projects: an IT inventory and update management s
 
 </td>
 <td valign="middle" width="300">
-<img width="300" alt="Gohan typing" src="../assets/Gohan.gif" />
+<img width="300" alt="Gohan typing" src="assets/Gohan.gif" />
 </td>
 </tr>
 </table>
