@@ -12,13 +12,17 @@
 
 <table>
 <tr>
-<td valign="top">
+<td>
 
 **🇪🇸 Español**
 
 Soy desarrollador full stack en España. Hago aplicaciones web completas, desde la interfaz hasta la API y la base de datos, y me gusta convertir una necesidad real en una herramienta que la gente use de verdad.
 
 Ahora mismo trabajo en tres proyectos: un sistema de inventario y gestión de actualizaciones de equipos informáticos para una administración pública, **VidRadar**, una herramienta que detecta los vídeos de YouTube que rinden muy por encima de la media de su canal, y una aplicación web para la comunidad de Dragon Ball Sparking Zero.
+
+<p align="center">
+  <img width="300" alt="Gohan typing" src="../assets/Gohan.gif" />
+</p>
 
 <details>
 <summary><b>🇬🇧 English</b></summary>
@@ -30,9 +34,6 @@ Right now I'm working on three projects: an IT inventory and update management s
 
 </details>
 
-</td>
-<td valign="middle" width="300">
-<img width="300" alt="Gohan typing" src="assets/Gohan.gif" />
 </td>
 </tr>
 </table>
@@ -55,4 +56,4 @@ Right now I'm working on three projects: an IT inventory and update management s
 
 #### Contributing to
 
-- **[ringi-gate](https://github.com/kxmskx/ringi-gate)** [![GitHub stars](https://img.shields.io/github/stars/kxmskx/ringi-gate?style=flat&color=gold)](https://github.com/kxmskx/ringi-gate) - Tests for the example profile: docs-contract checks, the `handbook/` docs rule and required gate rules without a message ([#10](https://github.com/kxmskx/ringi-gate/pull/10)).
+- **[ringi-gate](https://github.com/kxmskx/ringi-gate)** [![GitHub stars](https://img.shields.io/github/stars/kxmskx/ringi-gate?style=flat&color=gold)](https://github.com/kxmskx/ringi-gate) - Tests for the example profile: docs-contract checks, the `handbook/` docs rule and required gate rules without a message ([#10](https://github.com/kxmskx/ringi-gate/pull/10)), and a stricter test that catches re-exports in the prompts module ([#18](https://github.com/kxmskx/ringi-gate/pull/18)).
