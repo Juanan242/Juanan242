@@ -21,7 +21,7 @@ Soy desarrollador full stack en España. Hago aplicaciones web completas, desde 
 Ahora mismo trabajo en tres proyectos: un sistema de inventario y gestión de actualizaciones de equipos informáticos para una administración pública, **VidRadar**, una herramienta que detecta los vídeos de YouTube que rinden muy por encima de la media de su canal, y una aplicación web para la comunidad de Dragon Ball Sparking Zero.
 
 <p align="center">
-  <img width="300" alt="Gohan typing" src="../assets/Gohan.gif" />
+  <img width="300" alt="Gohan typing" src="assets/Gohan.gif" />
 </p>
 
 <details>
